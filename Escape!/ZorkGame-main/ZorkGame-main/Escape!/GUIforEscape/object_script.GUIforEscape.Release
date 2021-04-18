@@ -1,0 +1,10 @@
+release/gamestart.o
+release/infoandhelp.o
+release/main.o
+release/mainwindow.o
+release/settings.o
+release/qrc_textFile.o
+release/moc_gamestart.o
+release/moc_infoandhelp.o
+release/moc_mainwindow.o
+release/moc_settings.o

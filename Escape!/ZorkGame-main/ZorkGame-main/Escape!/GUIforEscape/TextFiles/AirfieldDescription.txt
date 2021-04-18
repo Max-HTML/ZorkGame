@@ -1,0 +1,10 @@
+LOCATION: "Airfield"
+
+DESCRIPTION: "You realise you will have to trade something valuable to board the Helicopter."
+
+OPTIONS:
+1.
+2.
+3.
+
+OPTIONAL PATHS: "North", "South"

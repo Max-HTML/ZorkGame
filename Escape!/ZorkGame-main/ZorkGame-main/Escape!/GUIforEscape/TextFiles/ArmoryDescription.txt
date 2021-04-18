@@ -1,0 +1,10 @@
+LOCATION: "Armory"
+
+DESCRIPTION: "You find yourself in the armory, but as you look around, you realise all the guns are missing or broken."
+
+OPTIONS:
+1.
+2.
+3.
+
+OPTIONAL PATHS: "North"

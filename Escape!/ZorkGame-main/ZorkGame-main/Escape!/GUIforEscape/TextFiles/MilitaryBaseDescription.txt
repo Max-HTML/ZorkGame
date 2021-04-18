@@ -1,0 +1,10 @@
+LOCATION: "Miltary Base"
+
+DESCRIPTION: "You keep walking, you are greeted by a soldier at the entrance, he tells you to go north and await further instructions."
+
+OPTIONS:
+1.
+2.
+3.
+
+OPTIONAL PATHS: "North", "South"

@@ -1,0 +1,10 @@
+LOCATION: "Tram Station"
+
+DESCRIPTION: "You find a broken down tram."
+
+OPTIONS:
+1. "Fix the tram"
+2.
+3.
+
+OPTIONAL PATHS: "West"

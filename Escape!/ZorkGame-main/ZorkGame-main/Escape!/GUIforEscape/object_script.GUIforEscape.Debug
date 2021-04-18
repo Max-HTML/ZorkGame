@@ -1,0 +1,10 @@
+debug/gamestart.o
+debug/infoandhelp.o
+debug/main.o
+debug/mainwindow.o
+debug/settings.o
+debug/qrc_textFile.o
+debug/moc_gamestart.o
+debug/moc_infoandhelp.o
+debug/moc_mainwindow.o
+debug/moc_settings.o
