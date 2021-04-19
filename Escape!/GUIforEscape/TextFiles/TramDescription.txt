@@ -1,0 +1,11 @@
+LOCATION: "Tram Station"
+
+DESCRIPTION: "You find a broken down tram."
+
+OPTIONS:
+1. "Fix the tram with the repair kit."
+2. "Pickup first aid kit."
+3. "Pickup bag of money."
+
+
+OPTIONAL PATHS: "West"

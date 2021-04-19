@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>TextFiles/AirfieldDescription.txt</file>
+        <file>TextFiles/ArmoryDescription.txt</file>
+        <file>TextFiles/HelipadDescription.txt</file>
+        <file>TextFiles/MilitaryBaseDescription.txt</file>
+        <file>TextFiles/PoliceStationDescription.txt</file>
+        <file>TextFiles/PrisonDescription.txt</file>
+        <file>TextFiles/SecurityCheckpointDescription.txt</file>
+        <file>TextFiles/TramDescription.txt</file>
+        <file>Images/map.jpg</file>
+        <file>Images/unsplash-stock-image[url=httpsunsplash.comphotosOcb-zFKk8lw].jpg</file>
+    </qresource>
+</RCC>

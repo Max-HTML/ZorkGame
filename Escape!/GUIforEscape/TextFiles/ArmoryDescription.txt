@@ -1,0 +1,11 @@
+LOCATION: "Armory"
+
+DESCRIPTION: "You find yourself in the armory, but as you look around, you realise most of the guns are missing or broken."
+
+OPTIONS:
+
+1."Pickup Lvl 2 Keycard."
+2."Pickup bodyarmour."
+
+
+OPTIONAL PATHS: "North"

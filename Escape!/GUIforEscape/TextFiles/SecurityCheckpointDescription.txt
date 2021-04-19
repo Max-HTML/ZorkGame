@@ -1,0 +1,10 @@
+LOCATION: "Security Checkpoint"
+
+DESCRIPTION: "You find yourself at an automated checkpoint, the only way to get past this is if you have a security card of some sort."
+
+OPTIONS:
+1."Pickup repair kit."
+2."Pickup cigarettes."
+
+
+OPTIONAL PATHS: "North", "East", "West"

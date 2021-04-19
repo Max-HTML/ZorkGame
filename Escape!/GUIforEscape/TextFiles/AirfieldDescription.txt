@@ -1,0 +1,11 @@
+LOCATION: "Airfield"
+
+DESCRIPTION: "You realise you will have to trade something valuable to board the Helicopter."
+
+OPTIONS:
+1."Fight."
+2."Offer cigarettes."
+3."Give bag of money."
+
+
+OPTIONAL PATHS: "North", "South"

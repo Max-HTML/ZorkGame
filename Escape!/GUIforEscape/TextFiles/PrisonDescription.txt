@@ -1,0 +1,10 @@
+LOCATION: "Prison"
+
+DESCRIPTION: "You wake up in a dusty cell, you look around, all you can see is a dim light coming from the south."
+
+OPTIONS:
+1."Fight Guard."
+2."Sneak out."
+3."Wait in your cell for eternity."
+
+OPTIONAL PATHS: "South"
